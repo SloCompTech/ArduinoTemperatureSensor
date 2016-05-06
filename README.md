@@ -1,2 +1,2 @@
 # ArduinoTemperatureSensor
-Library for arduino to get data from temperature sensor like tmp36gz
+Library for temperature sensor for arduino

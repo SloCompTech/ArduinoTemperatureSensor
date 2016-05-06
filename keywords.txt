@@ -1,0 +1,4 @@
+tmp36gz	KEYWORD1
+update	KEYWORD2
+getTempC	KEYWORD2
+getTempF	KEYWORD2
